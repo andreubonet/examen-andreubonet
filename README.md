@@ -1,3 +1,3 @@
 # Examen-andreubonet
 
-- hola
+- Para realizar la prueba del examen he utilizado Play with docker-Labs.
