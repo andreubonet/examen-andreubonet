@@ -60,7 +60,37 @@
 
 ## Segundo Paso
 
+<p> Al ejecutar comando >vi Dockerfile, se nos abrira un apartado para editar el archivo, alli iremos siguiendo los pasos del enunciado para crear la imagen tomcat con la vesión 9.0.39-jdk11
+</p>
+
+![Captura-7](https://user-images.githubusercontent.com/91874398/173314422-80b1a194-d872-4ab2-b3ea-11205bbc7be4.PNG)
+
+## Tercer Paso
+
+<p> Una vez hayamos salido del editor construiremos la imagen con el comando >docker build --tag tomcat:9.0.39-jdk11 . , el punto nos indicara que nos referimos al archivo Dockerfile.
+</p>
+
 ![Captura-9](https://user-images.githubusercontent.com/91874398/173314219-9c219f60-0709-4c7e-8ad2-8f2a51e3c630.PNG)
+
+## Cuarto Paso
+
+<p> Con el comando >docker images veremos que se nos ha construido la imagen. 
+</p>
+
+![Captura-10](https://user-images.githubusercontent.com/91874398/173315193-6a995a44-a26c-42aa-93d0-663911d77c5c.PNG)
+
+## Quinto Paso
+
+<p> Le cambiaremos el nombre a la imagen con el comando >docker tag tomcat:9.0.39-jdk11 andreubonet/tomcat (refiriendome a mi nombre de usuario y el nombre con el que quiero que se me suba la imagen) ya que al subirla nos daria un error ya que no tenemos los permisos necesrios por eso cramos una copia para poderla subir a Docker Hub. Luego harmeos un >docker images para ver si se ha creado una copia de la imagen de tomcat con el nombre introducido. Como paso final subiremos la imagen a Docker Hub con el comando >docker push andreubonet/tomcat (refiriendome al nuevo nombre que le he dado a la imagenb )
+  
+</p>
+
+![Captura-11](https://user-images.githubusercontent.com/91874398/173315436-62e68109-9699-4955-a308-9b655aad4a41.PNG)
+
+## Enlace Imagen a Docker Hub con la imagen Tomcat
+
+https://hub.docker.com/repository/docker/andreubonet/tomcat
+
 
 
 
