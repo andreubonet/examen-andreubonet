@@ -10,5 +10,7 @@
 
 # Ejemplo 1
 
+<p> En el primer ejemplo, lo que haremos será descargar una imagen ubuntu:18.04, con el comando >docker pull ubuntu:18.04, haremos un >docker images para ver que se nos ha descargado correctamente la imagen. A continuación haremos un >docker run -it ubuntu:18.04 /bin/bash, la función de este comando será crear un contenedor, dandonos un acceso a un shell del mismo contenedor, accederemos al contenedor como root para salir del root ejecturamos el comando >exit.
+</p>
 ![Captura-2](https://user-images.githubusercontent.com/91874398/173302162-b401749f-27b3-48c9-a2d6-a6c42ae487ba.PNG)
 
