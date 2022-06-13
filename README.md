@@ -37,3 +37,9 @@
 <p>
 </p>
 
+# Ejemplo 4
+
+![Captura-6](https://user-images.githubusercontent.com/91874398/173306673-4a616caa-af30-41b6-b42c-4a28791a5b5e.PNG)
+
+<p>
+</p>
