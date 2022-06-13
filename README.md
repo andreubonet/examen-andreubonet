@@ -20,14 +20,14 @@
 
 ![Captura-3](https://user-images.githubusercontent.com/91874398/173304776-c2ef65c3-b5f7-4d83-b6fa-ee6f01d8969d.PNG)
 
-<p>
+<p> En el ejemplo 2, crearemos un contenedor centOS:18.04 y listar el contenedor de la carpeta / con el comando >docker run centos ls /, este contenedor pasará a estar parado y como es habitual no podremos acceder a él. He lanzado la version centos, sin el 18:04 para que me coga la última versión
 </p>
 
 ## Ejemplo 3
 
 ![Captura-4](https://user-images.githubusercontent.com/91874398/173305144-b5cd5d0f-24a4-4a9c-a2c2-24d483571978.PNG)
 
-<p>
+<p> 
 </p>
 
 ## Ejemplo 4
