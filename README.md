@@ -2,7 +2,7 @@
 
 - Para realizar la prueba del examen he utilizado Play with docker-Labs.
 
-# Apartado A
+## Apartado A
 
 <p> El primer paso al abrir Play with docker-Labs será Logearnos con el nombre de usuario del docker hub y una contraseña que creemos nosortros.</p> 
 
@@ -37,7 +37,7 @@
 <p>
 </p>
 
-# Ejemplo 4
+# Seguimiento de Sistema
 
 ![Captura-6](https://user-images.githubusercontent.com/91874398/173306673-4a616caa-af30-41b6-b42c-4a28791a5b5e.PNG)
 
