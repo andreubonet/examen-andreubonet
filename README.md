@@ -87,7 +87,7 @@
 
 ![Captura-11](https://user-images.githubusercontent.com/91874398/173315436-62e68109-9699-4955-a308-9b655aad4a41.PNG)
 
-## Enlace Imagen a Docker Hub con la imagen Tomcat
+## Enlace a Docker Hub con la imagen Tomcat
 
 https://hub.docker.com/repository/docker/andreubonet/tomcat
 
