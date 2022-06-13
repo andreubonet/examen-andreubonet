@@ -41,15 +41,17 @@
 
 ## Seguimiento de Sistema
 
-![Captura-6](https://user-images.githubusercontent.com/91874398/173306673-4a616caa-af30-41b6-b42c-4a28791a5b5e.PNG)
-
 <p> Como último paso del apartado A, mostraremos un seguimento del sistema, lo primero mostraremos los contenedores en ejeccución con el comando >docker ps, y después mostraremos todos los contenedores que esten en ejeccución o ya esten parados con el comando >docker ps -a.
 </p>
 
 
+![Captura-6](https://user-images.githubusercontent.com/91874398/173306673-4a616caa-af30-41b6-b42c-4a28791a5b5e.PNG)
+
+
 # Apartado B
 
-![Captura-7](https://user-images.githubusercontent.com/91874398/173313365-9d55b99a-a261-4974-a205-5bb326b854e1.PNG)
+![Captura-8](https://user-images.githubusercontent.com/91874398/173313502-eb661edd-2147-428b-b7f3-a5dd86b17e34.PNG)
+
 
 
 
