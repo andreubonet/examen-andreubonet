@@ -50,6 +50,10 @@
 
 # Apartado B
 
+<p> Para realizar el apartado B, lo primero que haremos será crear un directorio con el comando >mkdir myrepo, accederemos a el con el comando cd myrepo
+  y en el crearemos un archivo llamado Dockerfile con el comando >touch Dockerfile, para editar el archivo llamado Dockerfile, lanzaremos el comando vi Dockerfile.
+</p>
+
 ![Captura-8](https://user-images.githubusercontent.com/91874398/173313502-eb661edd-2147-428b-b7f3-a5dd86b17e34.PNG)
 
 
